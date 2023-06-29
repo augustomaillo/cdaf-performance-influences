@@ -4,3 +4,4 @@ numpy
 pandas
 soccerdata
 statsbombpy
+meteostat
